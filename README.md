@@ -5,4 +5,3 @@ This program takes photo and try to redraw it with triangles, with use of geneti
 
 ![alt text](https://github.com/DehydratedWater/Genetic-Painter/blob/master/monaFinalSum.png)
 
-![alt text](https://github.com/DehydratedWater/Genetic-Painter/blob/master/monaface.png)
